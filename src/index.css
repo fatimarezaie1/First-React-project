@@ -70,6 +70,7 @@ input:hover{
     justify-content: space-between;
     font-size: 14.4px;
     height: 60px;
+    line-height: 20px;
     width: 247px;
     margin: auto  ;
 }
